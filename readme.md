@@ -3,3 +3,5 @@ For some reason, back in 2001, I wanted to create my own year planner (probably 
 This could easily be adapted to an HTML interface and with additional new things like SignalR could turn in an online collaborative planner quite quickly.
 
 Please feel free to use it with the usual no cost, no warranty terms applied 😊
+
+Knock Microsoft all you want but I ran my compiled version of this 20 years later and it just ran with no problems on Windows 10. That's backwards compatibility (or forward thinking) my friends!!
